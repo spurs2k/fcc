@@ -1,0 +1,77 @@
+body {
+    margin: auto;
+    max-width: 82%;
+    border: 3px solid #77acca;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+header {
+    text-align: center;
+    padding-bottom: 5%;
+    max-width: 75%;
+    margin: auto;
+
+
+* {box-sizing: border-box;}
+body {font-family: Verdana, sans-serif;}
+.mySlides {display: none;}
+.slide {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 100%;
+  position: relative;
+  margin: auto;
+}
+
+
+}
+
+.story-pic {
+    border-style: groove;
+    max-width: 49%;
+}
+
+h1 {
+    font-size: 75px;
+}
+
+h2 {
+    font-size: 20px;
+    padding-bottom: 5%;
+}
+
+.flex-container {
+    display: flex;
+    height: auto;
+    padding-top: 5%;
+    line-height: 2;
+}   
+
+.captions {
+    padding-top: 0%;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+.social {
+    width: 5vw;
+    height: auto;
+    padding-top: 3vh;
+    border: none;
+}
+
+.copyright {
+    font-size: 25px;
+    padding-top: 1vh;
+    max-width: 100%
+}
+
+.footer {
+    margin-top: 5%;
+    background-color: #77acca;
+    text-align: center;
+    height: auto;
+    max-width: 100%;
+    }
