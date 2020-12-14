@@ -9,28 +9,28 @@ body {
 header {
     text-align: center;
     padding-bottom: 5%;
-    max-width: 75%;
+    max-width: 100%;
     margin: auto;
-
-
-* {box-sizing: border-box;}
-body {font-family: Verdana, sans-serif;}
-.mySlides {display: none;}
-.slide {vertical-align: middle;}
-
-/* Slideshow container */
-.slideshow-container {
-  max-width: 100%;
-  position: relative;
-  margin: auto;
 }
 
-
+#image {
+    width: 100%;
+    height: auto;
+    max-width: 625px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
+
 
 .story-pic {
     border-style: groove;
-    max-width: 49%;
+    width: 49%;
+    height: auto;
+    max-width: 625px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 h1 {
